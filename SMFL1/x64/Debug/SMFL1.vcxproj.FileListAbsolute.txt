@@ -1,0 +1,2 @@
+D:\Chanukya\Game Dev Stuff\SFML\SMFL1\x64\Debug\SMFL1.exe
+D:\Chanukya\Game Dev Stuff\SFML\Pong\SMFL1\x64\Debug\SMFL1.exe
