@@ -1,4 +1,4 @@
-                                                        -------------------Pong-clone using SFML-------------------
+    -------------------Pong-clone using SFML-------------------
 To run the program, go to "Pong\SMFL1\x64\Debug" and run the "SFML1.exe" file or open the "SFML1.sln" file in "SFML1" folder and run the program. 
 
 Prerequisites:
@@ -12,7 +12,7 @@ NOTE: THIS WAS NOT TESTED WITH CODE::BLOCKS OR OTHER TEXT EDITORS OR C++ IDEs.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                                              
-                                                             -------------------How To Play-------------------
+    -------------------How To Play-------------------
                                                              
 1. Once the game is opened, press 'Space Bar' to get past the title and instruction screen.
 2. Use A and D to control the bottom bat (player 1) and Left and Right arrow keys to control the top bat (player 2)
@@ -20,7 +20,7 @@ NOTE: THIS WAS NOT TESTED WITH CODE::BLOCKS OR OTHER TEXT EDITORS OR C++ IDEs.
 4. Players score a point each time when their opponent misses the ball.
 5. The game can be closed at any instant by pressing the 'Esc' key.
 
-                                                        -------------------Additional Information-------------------
+       -------------------Additional Information-------------------
 
-Game and Menu illustrations are shown in GameScreen.png and MenuScreen.png image files.
+Game and Menu illustrations are shown in Game Screen.png and Start Screen.png image files.
 "Pong-Clone Using SFML.docx" contains documentation about the code.
